@@ -1,0 +1,18 @@
+header {
+  background-color: #040d22;
+  /* position: relative; */
+}
+
+/* section.head {
+  background-color: #040d22;
+  position: relative;
+} */
+
+/* section.head .container {
+  padding-top: 160px;
+  padding-bottom: 160px;
+} */
+header [data-bs-toggle="offcanvas"] {
+  display: block;
+  /* display: none; */
+}
